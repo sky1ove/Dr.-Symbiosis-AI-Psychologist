@@ -2,10 +2,8 @@
 
 Provide the most personalized therapeutic experience for you
 
-
 This project is inspired and modified from [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/main)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sky1ove)
 
 ![image](https://github.com/sky1ove/Dr.-Symbiosis-AI-Psychologist/assets/34699116/eaefe3f0-f5c2-41f4-b5f0-9bf35d445b0c)
 
@@ -28,9 +26,6 @@ Dr. Symbiosis AI Psychologist allows you to:
 2. Press the "Continue this conversation" button
 3. Tell the model your configuration
 4. Start
-
-
-
 
 
 To update the config, type "/config", then re-enter your updated info.
@@ -60,4 +55,6 @@ By either editing the Mr Ranedeer file or using the `/language [lang]` command, 
 
 ## Disclaimer
 Employing OpenAI's GPT-4, this project has the ability to produce content. It's important to be aware that GPT-4, while impressive, is not flawless. Issues such as grammatical inaccuracies, sentence construction errors, or even erroneous information may surface. Consequently, it is advised to use this prompt judiciously and not to depend exclusively on the provided infomration for critical decisions.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sky1ove)
 
