@@ -27,7 +27,7 @@ Dr. Symbiosis AI Psychologist allows you to:
 3. Tell the model your configuration
 4. Start
 
-
+### /config
 To update the config, type "/config", then re-enter your updated info.
 
 ![image](https://github.com/sky1ove/Dr.-Symbiosis-AI-Psychologist/assets/34699116/7a0901a5-2b09-4b58-939d-2ba9608a85a7)
@@ -46,7 +46,7 @@ The AI Tutor supports the following commands:
 
 
 # Different Languages
-By either editing the Mr Ranedeer file or using the `/language [lang]` command, you can change the language Mr Ranedeer speaks to you!
+By either editing the Mr Ranedeer file or using the `/[continue in your language]` command, you can change the language Mr Ranedeer speaks to you!
 ## Chinese
 ![image](https://github.com/sky1ove/Dr.-Symbiosis-AI-Psychologist/assets/34699116/6a30406b-113d-45ba-9f0d-e803d7610903)
 
