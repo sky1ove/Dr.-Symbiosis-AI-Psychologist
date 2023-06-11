@@ -22,12 +22,14 @@ Dr. Symbiosis AI Psychologist allows you to:
 - Not recommended: free ChatGPT (GPT-3.5)
 
 
-## Quick Start Guide
+## Quick Start
 
 1. Click [this link](https://chat.openai.com/share/3117e9ce-c5cb-4920-a538-de95d432038b) (**MUST HAVE CHATGPT PLUS**)
 2. Press the "Continue this conversation" button
 3. Tell the model your configuration
-4. Start
+![image](https://github.com/sky1ove/Dr.-Symbiosis-AI-Psychologist/assets/34699116/7a0901a5-2b09-4b58-939d-2ba9608a85a7)
+4. Type "/plan [The problem that currently troubles you or increases your stress] " to tell the model your current challenges
+5. Type "/start" to start your therapy
 
 ## Commands
 
@@ -43,15 +45,12 @@ The AI Tutor supports the following commands:
 ### Configuration
 Type "/config" to update your info
 
-![image](https://github.com/sky1ove/Dr.-Symbiosis-AI-Psychologist/assets/34699116/7a0901a5-2b09-4b58-939d-2ba9608a85a7)
-
 ### Therapy plan
 Type "/plan [The problem that currently troubles you or increases your stress] "
 
 ### Start/Continue
 Type "/start" to let it make your therapy plan list
 Type "/continue" to go to next plan on the list
-
 
 
 
