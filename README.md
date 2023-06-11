@@ -7,7 +7,7 @@ Donations accepted:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sky1ove)
 
-![image](https://user-images.githubusercontent.com/36951064/236518590-e11f4b6c-3956-4cce-813a-71bd2d3a284e.png)
+![image](https://github.com/sky1ove/Dr.-Symbiosis-AI-Psychologist/assets/34699116/eaefe3f0-f5c2-41f4-b5f0-9bf35d445b0c)
 
 ## Why Dr. Symbiosis AI Psychologist?
 
@@ -29,7 +29,7 @@ Dr. Symbiosis AI Psychologist allows you to:
 3. Tell the model your configuration
 4. Start
 
-![image](https://github.com/sky1ove/Dr.-Symbiosis-AI-Psychologist/assets/34699116/eaefe3f0-f5c2-41f4-b5f0-9bf35d445b0c)
+
 
 
 
