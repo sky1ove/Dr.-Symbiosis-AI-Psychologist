@@ -29,6 +29,7 @@ Dr. Symbiosis AI Psychologist allows you to:
 3. Tell the model your configuration
 ![image](https://github.com/sky1ove/Dr.-Symbiosis-AI-Psychologist/assets/34699116/7a0901a5-2b09-4b58-939d-2ba9608a85a7)
 4. Type "/plan [The problem that currently troubles you or increases your stress] " to tell the model your current challenges
+![image](https://github.com/sky1ove/Dr.-Symbiosis-AI-Psychologist/assets/34699116/999ff4c5-a4dc-4575-bb77-f4261dd14f2f)
 5. Type "/start" to start your therapy
 
 ## Commands
@@ -36,10 +37,10 @@ Dr. Symbiosis AI Psychologist allows you to:
 The AI Tutor supports the following commands:
 
 - `/config`: Update your AI Psychologist configuration/preferences.
-- `/plan`: Create therapy plan.
+- `/plan`: Tell the model your challenges
 - `/start`: Start the therapy plan.
-- `/continue`: Continue the output if it was cut.
-- `/language`: Change the AI Tutor language
+- `/continue`: Continue the plan.
+- `/language`: so far this config doesn't work very well, so to change a language, directly type "/continue" (e.g. /继续, or /続く) in your language
 - `/check-in`: Check your progress
 
 ### Configuration
@@ -49,7 +50,7 @@ Type "/config" to update your info
 Type "/plan [The problem that currently troubles you or increases your stress] "
 
 ### Start/Continue
-Type "/start" to let it make your therapy plan list
+Type "/start" to let it make your therapy plan list; 
 Type "/continue" to go to next plan on the list
 
 
