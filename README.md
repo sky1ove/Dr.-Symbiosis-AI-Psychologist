@@ -64,7 +64,7 @@ Type "/continue" to go to next plan on the list
 ![image](https://github.com/sky1ove/Dr.-Symbiosis-AI-Psychologist/assets/34699116/e80bddea-c898-4354-b282-8c9a537864ec)
 
 ## Disclaimer
-Employing OpenAI's GPT-4, this project has the ability to produce content. It's important to be aware that GPT-4, while impressive, is not flawless. Issues such as grammatical inaccuracies, sentence construction errors, or even erroneous information may surface. Consequently, it is advised to use this prompt judiciously and not to depend exclusively on the provided infomration for critical decisions.
+Employing OpenAI's GPT-4, this project has the ability to produce content. It's important to be aware that GPT-4, while impressive, is not flawless. Issues such as erroneous information may surface. Consequently, it is advised to use this prompt judiciously and not to depend exclusively on the provided infomration for critical decisions.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sky1ove)
 
