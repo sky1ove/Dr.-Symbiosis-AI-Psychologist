@@ -3,7 +3,7 @@
 Provide the most personalized therapeutic experience for you
 
 
-Donations accepted:
+This project is inspired and modified from [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/main)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sky1ove)
 
