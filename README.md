@@ -56,7 +56,7 @@ Type "/continue" to go to next plan on the list
 
 
 ## Different Languages
-By either editing the Mr Ranedeer file or using the `/[continue in your language]` command, you can change the language Mr Ranedeer speaks to you!
+
 ### Chinese
 ![image](https://github.com/sky1ove/Dr.-Symbiosis-AI-Psychologist/assets/34699116/6a30406b-113d-45ba-9f0d-e803d7610903)
 
