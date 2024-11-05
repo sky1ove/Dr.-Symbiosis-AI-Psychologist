@@ -18,13 +18,12 @@ Dr. Symbiosis AI Psychologist allows you to:
 
 ## Requirements and Compatibility
 
-- ChatGPT+ (GPT-4), it has a limit of 25 messages/3 hours
-- Not recommended: free ChatGPT (GPT-3.5)
+- GPT-4,GPT-4o
 
 
 ## Quick Start
 
-1. Click [this link](https://chat.openai.com/share/3117e9ce-c5cb-4920-a538-de95d432038b) (**MUST HAVE CHATGPT PLUS**)
+1. Click [this link](https://chat.openai.com/share/3117e9ce-c5cb-4920-a538-de95d432038b)
 2. Press the "Continue this conversation" button
 3. Tell the model your configuration
 ![image](https://github.com/sky1ove/Dr.-Symbiosis-AI-Psychologist/assets/34699116/7a0901a5-2b09-4b58-939d-2ba9608a85a7)
